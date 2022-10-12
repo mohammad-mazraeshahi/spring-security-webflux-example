@@ -12,7 +12,7 @@ I referenced the project above to make a JWT token custom filter, and added an e
 
 ### Library Dependencies
 
-```aidl
+```
 <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -44,7 +44,7 @@ I referenced the project above to make a JWT token custom filter, and added an e
 
 ### JWT token payload
 
-```aidl
+```
 {
   "type": "accessToken"
   "userId": 1,
